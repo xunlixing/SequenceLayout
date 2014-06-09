@@ -1,0 +1,13 @@
+int attr horizontal_spacing 0x7f010000
+int attr vertical_spacing 0x7f010001
+int dimen keyword_horizontal_spacing 0x7f030000
+int dimen keyword_vertical_spacing 0x7f030001
+int drawable biaoqian_nor 0x7f020000
+int drawable biaoqian_sel 0x7f020001
+int drawable button_view_selector 0x7f020002
+int drawable ic_launcher 0x7f020003
+int style AppBaseTheme 0x7f040000
+int style AppTheme 0x7f040001
+int[] styleable KeywordListView { 0x7f010000, 0x7f010001 }
+int styleable KeywordListView_horizontal_spacing 0
+int styleable KeywordListView_vertical_spacing 1
