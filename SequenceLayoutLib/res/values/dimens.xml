@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding= "utf-8"?>
+<resources>
+
+    <dimen name="keyword_horizontal_spacing">10dp</dimen>
+    <dimen name="keyword_vertical_spacing">10dp</dimen>
+
+</resources>
